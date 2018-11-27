@@ -1,0 +1,12 @@
+{timestamp: 2018-11-26T09:59:40.527Z, level: error, message: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]}
+{timestamp: 2018-11-26T10:07:07.005Z, level: error, message: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]}
+{timestamp: 2018-11-26T10:07:52.987Z, level: error, message: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]}
+{timestamp: 2018-11-26T10:09:26.766Z, level: error, message: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]}
+{timestamp: 2018-11-26T10:10:15.506Z, level: error, message: API not found}
+{timestamp: 2018-11-26T10:12:29.478Z, level: error, message: API not found}
+{timestamp: 2018-11-26T10:30:23.395Z, level: error, message: API not found}
+{timestamp: 2018-11-26T10:33:32.376Z, level: error, message: API not found}
+{timestamp: 2018-11-26T10:47:40.615Z, level: error, message: API not found}
+{timestamp: 2018-11-26T10:48:19.470Z, level: error, message: API not found}
+{timestamp: 2018-11-26T10:48:45.480Z, level: error, message: API not found}
+{timestamp: 2018-11-26T11:30:14.881Z, level: error, message: API not found}

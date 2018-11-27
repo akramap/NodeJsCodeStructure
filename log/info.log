@@ -1,0 +1,33 @@
+{timestamp: 2018-11-26T09:59:39.751Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T09:59:40.528Z, level: error, message: failed to connect to server [mongo:27017] on first connect [MongoNetworkError: getaddrinfo ENOTFOUND mongo mongo:27017]}
+{timestamp: 2018-11-26T10:07:06.983Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T10:07:52.966Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T10:09:26.745Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T10:09:58.319Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T10:10:15.506Z, level: error, message: API not found}
+{timestamp: 2018-11-26T10:12:29.478Z, level: error, message: API not found}
+{timestamp: 2018-11-26T10:30:23.395Z, level: error, message: API not found}
+{timestamp: 2018-11-26T10:33:20.141Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T10:33:32.376Z, level: error, message: API not found}
+{timestamp: 2018-11-26T10:45:03.630Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T10:45:59.546Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T10:46:42.913Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T10:47:40.616Z, level: error, message: API not found}
+{timestamp: 2018-11-26T10:48:19.470Z, level: error, message: API not found}
+{timestamp: 2018-11-26T10:48:45.480Z, level: error, message: API not found}
+{timestamp: 2018-11-26T10:55:06.021Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T10:55:23.967Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:07:50.254Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:08:32.775Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:09:14.454Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:10:06.945Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:11:42.316Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:12:14.120Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:12:21.115Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:14:32.539Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:15:10.538Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:17:21.892Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:17:53.581Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:18:13.718Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:24:54.230Z, level: info, message: server started on port 4040 (development)}
+{timestamp: 2018-11-26T11:30:14.882Z, level: error, message: API not found}
